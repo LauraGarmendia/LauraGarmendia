@@ -1,7 +1,7 @@
 ## ¡Hola! 👋
 
-My name is Laura Garmendia García, a biomedical scientist interested bioninformatics and the use of programming to answer biomedical and biological questions.
-I'm currently developing my skills in Python and R and and applying them to biological/biomedical data processing.
+My name is Laura Garmendia García, a biomedical scientist interested bioinformatics and the use of programming to answer biomedical and biological questions.
+I'm currently developing my skills in Python and R and applying them to biological/biomedical data processing.
 
 ## 🧬 Current interests
 
